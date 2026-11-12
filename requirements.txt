@@ -1,0 +1,8 @@
+# Python 3.10+  |  FFmpeg 6+ com libass, libx264 e filtros loudnorm/sidechaincompress (binário separado)
+numpy>=1.24
+opencv-python-headless>=4.8
+Pillow>=10.0
+faster-whisper>=1.0        # transcrição (baixa o modelo do Hugging Face na 1ª execução)
+# opcionais:
+# openai-whisper           # motor alternativo (transcription.engine = "openai-whisper")
+# anthropic>=0.40          # só se llm.enabled = true (seleção 100% automática via API)

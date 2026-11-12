@@ -1,0 +1,93 @@
+{
+  "clips": {
+    "count": 10,
+    "min_duration": 20.0,
+    "max_duration": 25.0,
+    "target_duration": 23.0,
+    "min_gap_between_clips": 2.0,
+    "min_auto_score": 45,
+    "max_candidates_exported": 60
+  },
+  "transcription": {
+    "engine": "faster-whisper",
+    "model": "small",
+    "device": "auto",
+    "compute_type": "auto",
+    "language": null,
+    "chunk_seconds": 600,
+    "chunk_overlap_seconds": 2.0,
+    "vad_filter": true,
+    "beam_size": 5
+  },
+  "analysis": {
+    "scene_detection": true,
+    "scene_threshold": 0.35,
+    "audio_window_seconds": 0.5,
+    "face_sample_frames_per_candidate": 6
+  },
+  "jump_cuts": {
+    "enabled": true,
+    "min_pause_seconds": 0.65,
+    "keep_pause_seconds": 0.25
+  },
+  "render": {
+    "width": 1080,
+    "height": 1920,
+    "fps": null,
+    "max_fps": 60,
+    "crf": 18,
+    "preset": "veryfast",
+    "audio_bitrate": "192k",
+    "audio_sample_rate": 48000,
+    "decode_height": 1080,
+    "face_detect_every_n_frames": 6
+  },
+  "audio": {
+    "target_lufs": -14.0,
+    "true_peak": -1.5,
+    "lra": 11.0,
+    "highpass_hz": 80,
+    "denoise_if_noise_floor_above_db": -50.0,
+    "music_enabled": true,
+    "music_level_db": -26.0,
+    "music_source": "generated",
+    "music_library_dir": null,
+    "sfx_enabled": false,
+    "sfx_level_db": -16.0
+  },
+  "validator": {
+    "max_autofix_rounds": 2,
+    "lufs_tolerance": 1.5,
+    "min_crop_source_height_warn": 640,
+    "uniformity_warn_ratio": 0.7
+  },
+  "llm": {
+    "enabled": false,
+    "provider": "anthropic",
+    "model": "claude-sonnet-5-5",
+    "max_budget_usd": 1.0,
+    "usd_per_million_input_tokens": 3.0,
+    "usd_per_million_output_tokens": 15.0,
+    "max_output_tokens": 4000
+  },
+  "transitions": {
+    "intro_fade": 0.5,
+    "cut_dissolve": 0.18,
+    "audio_cut_fade": 0.03,
+    "audio_fade_in": 0.12,
+    "audio_fade_out": 0.35
+  },
+  "camera": {
+    "content_coverage": 0.75,
+    "punch_amount": 0.045,
+    "punch_min_spacing": 3.5,
+    "push_in": 0.035,
+    "split_content": 0.58,
+    "split_min": 0.5,
+    "split_max": 0.64
+  },
+  "content": {
+    "type": "auto",
+    "facecam": "auto"
+  }
+}

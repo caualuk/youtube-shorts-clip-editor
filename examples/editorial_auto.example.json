@@ -1,0 +1,263 @@
+{
+  "clips": {
+    "01": {
+      "_origin": "transcricao",
+      "style": "historia",
+      "keywords": [
+        "sabia",
+        "desperdica",
+        "duas",
+        "primeiras",
+        "fazia",
+        "demorei"
+      ],
+      "hook_title": "A maioria das pessoas desperdiça as duas primeiras horas do dia?",
+      "topic_label": "Maioria",
+      "explainers": [
+        {
+          "kind": "stat",
+          "title": "Em números",
+          "value": 3,
+          "prefix": "",
+          "suffix": " semanas",
+          "caption": "Minha produção dobrou em…",
+          "at_src": 24.836,
+          "duration": 3.2
+        },
+        {
+          "kind": "contrast",
+          "title": "O segredo: não é isso…",
+          "items": [
+            "acordar mais cedo",
+            "proteger a primeira hora de trabalho contra…"
+          ],
+          "at_src": 11.596,
+          "duration": 3.6
+        }
+      ],
+      "closing_text": "O segredo: proteger a primeira hora de trabalho contra distrações"
+    },
+    "02": {
+      "_origin": "transcricao",
+      "style": "educativo",
+      "keywords": [
+        "cem",
+        "reais",
+        "paga",
+        "dinheiro",
+        "vejo",
+        "acham"
+      ],
+      "hook_title": "As pessoas acham que precisam ganhar mais para começar a investir",
+      "topic_label": "Dinheiro",
+      "explainers": [
+        {
+          "kind": "stat",
+          "title": "Em números",
+          "value": 100000,
+          "prefix": "R$ ",
+          "suffix": "",
+          "caption": "com juros compostos",
+          "at_src": 47.397,
+          "duration": 3.2
+        },
+        {
+          "kind": "contrast",
+          "title": "O problema: não é isso…",
+          "items": [
+            "o valor",
+            "o hábito"
+          ],
+          "at_src": 49.848,
+          "duration": 3.6
+        }
+      ],
+      "closing_text": "O problema: o hábito"
+    },
+    "03": {
+      "_origin": "transcricao",
+      "style": "debate",
+      "keywords": [
+        "pessoas",
+        "fiquei",
+        "silencio",
+        "minuto",
+        "frente",
+        "sabe"
+      ],
+      "hook_title": "O que me salvou?",
+      "topic_label": "Pessoas",
+      "context_card": {
+        "label": "Antes deste trecho",
+        "text": "“Mudando completamente de assunto, quero contar o que aconteceu comigo no ano passado.”",
+        "origin": "contexto_do_video"
+      },
+      "explainers": [
+        {
+          "kind": "stat",
+          "title": "Em números",
+          "value": 20,
+          "prefix": "",
+          "suffix": " pessoas",
+          "caption": "Na frente de…",
+          "at_src": 75.219,
+          "duration": 3.2
+        },
+        {
+          "kind": "list",
+          "title": "Pontos-chave",
+          "items": [
+            "As pessoas riram comigo",
+            "Vulnerabilidade é uma ferramenta de comunicação"
+          ],
+          "at_src": 83.035,
+          "duration": 4.0
+        }
+      ],
+      "closing_text": "Faz sentido pra você?"
+    },
+    "04": {
+      "_origin": "transcricao",
+      "style": "debate",
+      "keywords": [
+        "dormir",
+        "seis",
+        "noite",
+        "reduz",
+        "capacidade",
+        "concentracao"
+      ],
+      "hook_title": "A melhor dica que eu conheço é simples",
+      "topic_label": "Sono",
+      "context_card": {
+        "label": "Antes deste trecho",
+        "text": "“Vamos para a ciência do sono, que é um assunto que eu amo.”",
+        "origin": "contexto_do_video"
+      },
+      "explainers": [
+        {
+          "kind": "stat",
+          "title": "Em números",
+          "value": 6,
+          "prefix": "",
+          "suffix": " horas",
+          "caption": "Dormir menos de…",
+          "at_src": 101.83,
+          "duration": 3.2
+        },
+        {
+          "kind": "list",
+          "title": "Pontos-chave",
+          "items": [
+            "Um sinal de alerta",
+            "Horário fixo para acordar"
+          ],
+          "at_src": 113.413,
+          "duration": 4.0
+        }
+      ],
+      "closing_text": "Você faria diferente?"
+    },
+    "05": {
+      "_origin": "transcricao",
+      "style": "debate",
+      "keywords": [
+        "metodo",
+        "tecnicas",
+        "opiniao",
+        "polemica",
+        "sei",
+        "discordar"
+      ],
+      "hook_title": "Uma opinião polêmica, e eu sei que muita gente vai discordar",
+      "topic_label": "Método",
+      "explainers": [
+        {
+          "kind": "stat",
+          "title": "Em números",
+          "value": 30,
+          "prefix": "",
+          "suffix": " dias",
+          "caption": "Use por…",
+          "at_src": 148.47,
+          "duration": 3.2
+        },
+        {
+          "kind": "contrast",
+          "title": "Não é isso…",
+          "items": [
+            "as técnicas sejam ruins",
+            "as pessoas colecionam técnicas em vez…"
+          ],
+          "at_src": 139.562,
+          "duration": 3.6
+        }
+      ],
+      "closing_text": "Você concorda?"
+    },
+    "06": {
+      "_origin": "transcricao",
+      "style": "energetico",
+      "keywords": [
+        "existe",
+        "mito",
+        "adulto",
+        "aprende",
+        "tao",
+        "adultos"
+      ],
+      "hook_title": "Adultos aprendem de forma diferente",
+      "topic_label": "Mito",
+      "context_card": {
+        "label": "Antes deste trecho",
+        "text": "“Quero falar sobre aprender coisas novas depois dos trinta.”",
+        "origin": "contexto_do_video"
+      },
+      "explainers": [
+        {
+          "kind": "stat",
+          "title": "Em números",
+          "value": 32,
+          "prefix": "",
+          "suffix": " anos",
+          "caption": "Eu aprendi a programar com…",
+          "at_src": 172.885,
+          "duration": 3.2
+        }
+      ],
+      "closing_text": "Qual é a sua opinião?"
+    },
+    "07": {
+      "_origin": "transcricao",
+      "style": "educativo",
+      "keywords": [
+        "mudancas",
+        "acao",
+        "maior",
+        "tentar",
+        "mudar",
+        "tempo"
+      ],
+      "hook_title": "O maior erro é tentar mudar dez coisas ao mesmo tempo",
+      "topic_label": "Hábitos",
+      "context_card": {
+        "label": "Antes deste trecho",
+        "text": "“Uma última coisa sobre hábitos, que é a mais importante de todas.”",
+        "origin": "contexto_do_video"
+      },
+      "explainers": [
+        {
+          "kind": "stat",
+          "title": "Em números",
+          "value": 20,
+          "prefix": "",
+          "suffix": " livros",
+          "caption": "por ano",
+          "at_src": 213.489,
+          "duration": 3.2
+        }
+      ],
+      "closing_text": "Comece com uma ação de dois minutos por dia"
+    }
+  }
+}
